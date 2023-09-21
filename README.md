@@ -1,7 +1,15 @@
-# Olá! Eu sou a Erica Lira
+# Hello People!!!
+
+Me chamo Erica Paiva Lira, uma gestora de pessoas em busca da transição de carreira, adoro trabalhar com pessoas, mais amo ainda mais a tecnologia👩‍💻 
+
+Sou uma mãe que estuda, trabalha e apaixonada pela família 🫶
+
+##
+
 👩‍💻 Estudando JavaScript
 📧 Email: erica.ribeiro@hotmail.com
 
+##
 
 <div style="display: inline_block"><br>
   
@@ -17,6 +25,6 @@
 ##
 
 <a href="https://www.linkedin.com/in/ericaribeirolira/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-
+[![Discord](https://img.shields.io/badge/Discord-000?style=for-the-badge&logo=discord)](https://www.discord.com/in/Ericalira#2701./)
 
 ##
